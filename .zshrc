@@ -117,7 +117,7 @@ ulimit -c 0
 # %*    時間(hh:flag_mm:ss)
 # %T    時間(hh:mm)
 # %t    時間(hh:mm(am/pm))
-PROMPT='%F{cyan}%n@%m%f:%~# '
+PROMPT='%F{cyan}%n@%m%f:%~$ '
 
 # -----------------------------
 # Completion
